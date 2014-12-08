@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebApplication3\bin\WebApplication2.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebApplication3\bin\WebApplication2.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebApplication3\obj\Debug\WebApplication2.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WebApplication3\obj\Debug\WebApplication2.pdb
+C:\Users\Nipapom\Downloads\Compressed\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Nipapom\Downloads\Compressed\WebApplication3\obj\Debug\WebApplication2.dll
+C:\Users\Nipapom\Downloads\Compressed\WebApplication3\obj\Debug\WebApplication2.pdb
+C:\Users\Nipapom\Downloads\Compressed\WebApplication3\bin\WebApplication2.dll.config
+C:\Users\Nipapom\Downloads\Compressed\WebApplication3\bin\WebApplication2.dll
+C:\Users\Nipapom\Downloads\Compressed\WebApplication3\bin\WebApplication2.pdb
